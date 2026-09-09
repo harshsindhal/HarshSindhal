@@ -28,18 +28,50 @@ I enjoy building practical solutions, learning new technologies, and improving w
 
 ### Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="30" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
-    <b>harshsindhal</b>
-  </a>
-  <br><br>
-  <a href="mailto:harshsindhal123@gmail.com">
-    <img src="https://cdn.simpleicons.org/maildotru/FFFFFF" width="30" height="30" alt="Email"/>
-  </a>
-  <a href="mailto:harshsindhal123@gmail.com">
-    <b>harshsindhal123@gmail.com</b>
-  </a>
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://harshsindhal.github.io" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png"
+             width="20" height="20" alt="Portfolio"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="https://harshsindhal.github.io" target="_blank">harshsindhal.github.io</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
+        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"
+             width="20" height="20" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">harshsindhal</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="mailto:harshsindhal123@gmail.com">
+        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png"
+             width="20" height="20" alt="Email"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="mailto:harshsindhal123@gmail.com">harshsindhal123@gmail.com</a>
+    </td>
+  </tr>
+
+<tr>
+  <td>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/phone.png"
+         width="20" height="20" alt="Phone"/>
+  </td>
+  <td>
+    <a href="tel:+919877320337">9877320337</a>
+  </td>
+</tr>
+</table>
