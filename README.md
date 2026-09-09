@@ -50,6 +50,10 @@ I enjoy building practical solutions, learning new technologies, and improving w
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshsindhal123@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  </a>
+</p>
+  <a href="mailto:harshsindhal123@gmail.com">
     📧
   </a>
 </p>
