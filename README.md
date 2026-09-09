@@ -26,13 +26,14 @@ I enjoy building practical solutions, learning new technologies, and improving w
 - 📊 Building with Data & Python
 - 💻 Improving my software development skills
 
-### 🤝 Connect
+### 📫 Get in Touch
 
 <p align="left">
   <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:harshsindhal123@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/new-post.png" width="40" height="40" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/new-post.png" width="35" height="35" alt="Email"/>
   </a>
 </p>
