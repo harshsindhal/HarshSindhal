@@ -30,14 +30,14 @@ I enjoy building practical solutions, learning new technologies, and improving w
 
 <p align="left">
   <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="30" height="30" alt="LinkedIn"/>
   </a>
   <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
     <b>harshsindhal</b>
   </a>
   <br><br>
   <a href="mailto:harshsindhal123@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/new-post.png" width="30" height="30" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/maildotru/FFFFFF" width="30" height="30" alt="Email"/>
   </a>
   <a href="mailto:harshsindhal123@gmail.com">
     <b>harshsindhal123@gmail.com</b>
