@@ -7,34 +7,19 @@ I enjoy building practical solutions, learning new technologies, and improving w
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <p align="left">
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://angular.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/angular/DD0031" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI"/>
 </p>
 
 ### 📌 Currently
@@ -47,7 +32,7 @@ I enjoy building practical solutions, learning new technologies, and improving w
 
 <p align="left">
   <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshsindhal123@gmail.com">
     <img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" alt="Email"/>
