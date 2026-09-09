@@ -15,7 +15,9 @@ I enjoy building practical solutions, learning new technologies, and improving w
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+ <a href="https://github.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
+</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
 </p>
@@ -30,7 +32,7 @@ I enjoy building practical solutions, learning new technologies, and improving w
 
 <p align="left">
   <a href="https://linkedin.com/in/harsh-sindhal" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshsindhal123@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/EA4335/new-post.png" width="40" height="40" alt="Email"/>
