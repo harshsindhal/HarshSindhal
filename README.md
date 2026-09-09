@@ -15,9 +15,7 @@ I enjoy building practical solutions, learning new technologies, and improving w
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
- <a href="https://github.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
-</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
 </p>
