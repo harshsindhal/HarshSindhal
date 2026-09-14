@@ -22,9 +22,9 @@ I enjoy building practical solutions, learning new technologies, and improving w
 
 ### 📌 Currently
 
-- 🤖 Exploring AI & Machine Learning
-- 📊 Building with Data & Python
-- 💻 Improving my software development skills
+- 🤖 Exploring AI & Machine Learning.
+- 📊 Building with Data & Python.
+- 💻 Improving my software development skills.
 
 ### Connect with me
 
